@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Model weights
+*.weights.h5
+*.h5
+*.keras
+*.dat
+*.dat.bz2
+
+# Pipeline artifacts
+frames/
+frames_*/
+results/
+results_*/
+transformed/
+final/
+
+# Media
+*.mp4
+*.avi
+*.mov
+
+# Generated reports and figures
+evaluation_report.txt
+*.png
+
+.DS_Store
+.ipynb_checkpoints/

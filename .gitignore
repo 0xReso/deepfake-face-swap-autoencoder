@@ -27,6 +27,7 @@ final/
 # Generated reports and figures
 evaluation_report.txt
 *.png
+!assets/*.png
 
 .DS_Store
 .ipynb_checkpoints/

@@ -344,7 +344,7 @@ Stage 4 also writes `evaluation_report.txt` and a six-panel `evaluation_metrics_
 ### Installation
 
 ```bash
-git clone https://github.com/ResorcinolWorks/deepfake-face-swap-autoencoder.git
+git clone https://github.com/0xReso/deepfake-face-swap-autoencoder.git
 cd deepfake-face-swap-autoencoder
 pip install -r requirements.txt
 ```
@@ -452,5 +452,5 @@ Released under the [MIT License](LICENSE).
 
 <div align="center">
 <br>
-<sub>Built by <a href="https://github.com/ResorcinolWorks">Ayush Raghuvanshi</a></sub>
+<sub>Built by <a href="https://github.com/0xReso">Ayush Raghuvanshi</a></sub>
 </div>
